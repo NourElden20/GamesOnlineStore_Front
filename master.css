@@ -11,6 +11,12 @@ body {
 
 }
 
+header {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+}
+
 img {
     width: 200px;
     height: 300px;
@@ -70,6 +76,6 @@ img {
 
 
 .Box:hover {
-    transform: rotateY(-180deg);
+    transform: scale(1.2) rotateY(-180deg);
 
 }
