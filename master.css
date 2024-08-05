@@ -6,7 +6,7 @@ body {
 .Boxes {
     display: flex;
     flex-wrap: wrap;
-    justify-content: stretch;
+    justify-content: center;
     perspective: 800px;
 
 }
